@@ -7,12 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Verilog-RTL-blue">
-  <img src="https://img.shields.io/badge/SystemVerilog-Design-orange">
-  <img src="https://img.shields.io/badge/Cadence-Genus-red">
-  <img src="https://img.shields.io/badge/Cadence-Innovus-red">
-  <img src="https://img.shields.io/badge/ModelSim-Verification-green">
-  <img src="https://img.shields.io/badge/Altium-PCB-purple">
+  <img src="https://img.shields.io/badge/FPGA-SystemVerilog-blue">
+  <img src="https://img.shields.io/badge/ASIC-RTL_to_GDSII-red">
+  <img src="https://img.shields.io/badge/Architecture-RISC--V-orange">
+  <img src="https://img.shields.io/badge/PCB-Altium-purple">
+  <img src="https://img.shields.io/badge/Embedded-C%2FC++-green">
 </p>
 
 ---
