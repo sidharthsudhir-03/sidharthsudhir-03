@@ -44,7 +44,7 @@ ModelSim, Testbench Development, Functional Verification
 Altium Designer, High-Speed PCB Design, Mixed-Signal Design
 
 ### Embedded Systems
-C, C++, STM32, ESP32
+C, C++, STM32, RISC-V
 
 ### Software
 Python, MATLAB, Linux, Git
