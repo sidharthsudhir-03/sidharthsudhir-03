@@ -21,6 +21,8 @@
 
 I am an incoming Master of Engineering student in Electrical & Computer Engineering at the University of British Columbia with interests in digital ASIC design, FPGA acceleration, computer architecture, high-speed PCB design, and embedded systems.
 
+Over the past four years, I have deliberately aligned my coursework and projects with these areas, building a foundation that spans digital design, computer architecture, FPGA development, and hardware systems. I am pursuing a master's degree to continue expanding my technical depth and gain a stronger understanding of the principles that drive modern computing and electronic systems.
+
 My work spans the full hardware development stack, from RTL design and verification through ASIC implementation flows, FPGA development, mixed-signal PCB design, and embedded firmware.
 
 ---
@@ -36,9 +38,6 @@ My work spans the full hardware development stack, from RTL design and verificat
 | Computer Architecture | LLC Cache Replacement Policy | Complete |
 | Hardware Design | Thrust Stand Controller | Complete |
 | Mixed-Signal PCB | Ultrasound AFE + Motherboard | Complete |
-| Embedded Systems | TinyFC Flight Controller | WIP |
-| FPGA Hardware | Zynq Development Board | WIP |
-| Signal Processing | Signal Acquisition & Analyzer | WIP |
 
 ---
 
