@@ -33,7 +33,7 @@ My work spans the full hardware development stack, from RTL design and verificat
 |----------|----------|
 | ASIC Design | 4×4 DNN Hardware Accelerator ASIC |
 | FPGA Design | 16-bit Fixed-Point Hardware Accelerator |
-| Digital Communications | FPGA Digital Communication System |
+| Digital Communications | FPGA Wireless Communication System |
 | RTL Design | ARC4 Decrypter |
 | Computer Architecture | LLC Cache Replacement Policy |
 | Hardware Design | Thrust Stand Controller |
