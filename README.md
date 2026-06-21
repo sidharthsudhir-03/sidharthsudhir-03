@@ -29,15 +29,15 @@ My work spans the full hardware development stack, from RTL design and verificat
 
 ## Featured Projects
 
-| Domain | Project | Status |
-|----------|----------|----------|
-| ASIC Design | 4×4 DNN Hardware Accelerator ASIC | Complete |
-| FPGA Design | 16-bit Fixed-Point Hardware Accelerator | Complete |
-| Digital Communications | FPGA Digital Communication System | Complete |
-| RTL Design | ARC4 Decrypter | Complete |
-| Computer Architecture | LLC Cache Replacement Policy | Complete |
-| Hardware Design | Thrust Stand Controller | Complete |
-| Mixed-Signal PCB | Ultrasound AFE + Motherboard | Complete |
+| Domain | Project |
+|----------|----------|
+| ASIC Design | 4×4 DNN Hardware Accelerator ASIC |
+| FPGA Design | 16-bit Fixed-Point Hardware Accelerator |
+| Digital Communications | FPGA Digital Communication System |
+| RTL Design | ARC4 Decrypter |
+| Computer Architecture | LLC Cache Replacement Policy |
+| Hardware Design | Thrust Stand Controller |
+| Mixed-Signal PCB | Ultrasound AFE + Motherboard |
 
 ---
 
