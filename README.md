@@ -6,14 +6,6 @@
   FPGA Design • Digital VLSI • Computer Architecture • PCB Design • Embedded Systems
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FPGA-SystemVerilog-blue">
-  <img src="https://img.shields.io/badge/ASIC-RTL_to_GDSII-red">
-  <img src="https://img.shields.io/badge/Architecture-RISC--V-orange">
-  <img src="https://img.shields.io/badge/PCB-Altium-purple">
-  <img src="https://img.shields.io/badge/Embedded-C%2FC++-green">
-</p>
-
 ---
 
 ## About Me
