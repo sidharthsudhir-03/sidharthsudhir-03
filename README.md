@@ -82,7 +82,7 @@ My work spans the full hardware development stack, from RTL design and verificat
 ## Current Focus
 
 - Custom Zynq FPGA Development Board
-- TinyFC Flight Controller
-- Signal Acquisition & Analyzer
+- TinyFC Flight Controller for UBC Smart City's Emergency Response Drone
+- STM-32 based Signal Acquisition & Analyzer
 - Advanced Digital VLSI Systems
 - High-Speed PCB Design
